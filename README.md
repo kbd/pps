@@ -1,6 +1,7 @@
-# pp
+# pps
 
-This is just a color-scheme for the [pp](https://github.com/k0kubun/pp/) Go pretty-print library.
+This is just a color-scheme for the [pp Go pretty-print library](https://github.com/k0kubun/pp/).
+"pps" &rarr; "pp scheme".
 
 Becuase this is Go, the easiest way to use this configuration is just to import it:
 
